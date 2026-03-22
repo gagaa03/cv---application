@@ -32,8 +32,8 @@
 
 
 ## 🔗 相關連結
-- **[Live Demo]**(https://luxury-entremet-80a074.netlify.app/)
-- **[Source Code]**(https://github.com/gagaa03/cv---application)
+- **[Live Demo](https://luxury-entremet-80a074.netlify.app/)**
+- **[Source Code](https://github.com/gagaa03/cv---application)**
 
 <br />
 
